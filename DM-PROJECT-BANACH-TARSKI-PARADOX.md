@@ -327,8 +327,8 @@ This paradox challenges our intuition about volume and duplication. By studying 
 
 ---
 
-[**🖋️ Written and developed by Abhinav Singh**  
+[**🖋️ Written and developed by Abhinav Singh**]  
 *Mechanical Engineering, IIT Gandhinagar*  
-*Summ*](https://www.quantamagazine.org/how-a-mathematical-paradox-allows-infinite-cloning-20210826/)*er of Math Exposition 2025*
+*Summer of Math Exposition 2025*
 
 ---
